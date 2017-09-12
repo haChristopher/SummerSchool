@@ -1,6 +1,28 @@
-# SummerSchool
-Ai Summer School
+# Deep Learning Learning
 
+This tutorial helps to get into Deep Learning with resources, example Notebooks and explanations.
+
+For any questions, ideas or feedback please write to https://claudiooo.github.io/DeepLearningLearning/
+
+
+Creators:
+1. Claudio Weck -
+2. Christopher Hansen
+3. ...
+
+
+## Starting up
+
+We believe Deep Learning is the current key for Artificial Intelligence - and it has never been easier to tackle this topic.
+
+Interesting talks can be heard on YouTube, on online courses and so on.
+
+For a start - have a look at some videos from
+
+Siraj
+#TODO - add loink here
+
+...
 
 
 ## Links
