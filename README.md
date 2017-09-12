@@ -45,3 +45,7 @@ Some useful links to books, videos or websites to get started with Deep Learning
 [Siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 
 [Geoffrey Hinton, Neural Networks for Machine Learning course](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+
+### MOOCs
+
+[Udacity Course on Deep Learning](https://de.udacity.com/course/deep-learning--ud730/)
