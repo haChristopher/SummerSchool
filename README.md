@@ -8,7 +8,8 @@ For any questions, ideas or feedback please write to https://claudiooo.github.io
 Creators:
 1. Claudio Weck -
 2. Christopher Hansen
-3. ...
+3. Nikolaj Waller
+4. ...
 
 
 ## Starting up
@@ -23,6 +24,11 @@ Siraj
 #TODO - add loink here
 
 ...
+
+## Examples and learning ressources
+
+This folder contains practical examples to get you started as well as other ressources to help you out.
+This can include solutions to MOOCs and other problems or applications with Deep Learning.
 
 
 ## Links
